@@ -38,6 +38,6 @@ if len(errors) == 0:
     sys.exit(0)
 # end no error
 errors.sort(key=lambda x: x[0])
-errors_display = "\n".join(["- %d行目: %s" % x for x in errors])
+errors_display = "\n".join(["%d行目: %s" % x for x in errors])
 print("自動でチェックしました。以下を修正してください。\n\n%s" % errors_display)
 sys.exit(1)
