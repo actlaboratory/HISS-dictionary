@@ -4,3 +4,5 @@ lento
 ita
 ada
 ama
+taro
+muumuu
