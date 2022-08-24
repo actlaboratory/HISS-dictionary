@@ -6,3 +6,4 @@ ada
 ama
 taro
 muumuu
+ken
