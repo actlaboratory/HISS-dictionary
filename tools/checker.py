@@ -21,6 +21,8 @@ for i in range(len(lines)):
         continue
     if lines[i] == "":
         continue
+    if lines[i][0] == "#":
+        continue
     ls = lines[i].split(",")
     if len(ls) != 3:
         errors.append((i+1, "要素の数が合いません。"))
