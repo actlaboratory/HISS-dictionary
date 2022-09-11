@@ -1,5 +1,5 @@
 juju
-AAA
+aaa
 lento
 ita
 ada
@@ -9,3 +9,14 @@ muumuu
 ken
 gocache
 nda
+aaaa
+caa
+soa
+gae
+sen
+metadata
+mydomain
+myorigin
+inzone
+enquete
+iaea
