@@ -2087,6 +2087,8 @@ workarounds,ワークアラ’ウンズ,4
 millis,ミ’リス,4
 # start: person names
 anna,ア’ンナ,4
+donald,ドナ’ルド,4
+donalds,ドナ’ルズ,4
 sanitizer,サニタ’イザー,4
 facet,ファセ’ット,4
 facets,ファセ’ッツ,4
@@ -2119,8 +2121,6 @@ transcoding,トランスコ’ーディング,4
 transcoder,トランスコ’ーダー,4
 deprecations,デプリケ’ーションズ,4
 sanitizers,サニタ’イザーズ,4
-passable,パ’ッサブル,4
-addressable,アドレ’サブル,4
 inspiron,インスパ’イロン,4
 disabler,ディセ’ーブラー,4
 automattic,オートマ’ティック,4
@@ -2151,11 +2151,7 @@ ping,ピ’ング,4
 pings,ピ’ングズ,4
 pinged,ピ’ングド,4
 pinging,ピ’ンギング,4
-xrea,エクス’リア,4
 heteml,ヘテ’ムル,4
 geoip,ジオアイピ’ー,4
 blogspot,ブログスポ’ット,4
-# start: person names
-donald,ドナ’ルド,4
-donalds,ドナ’ルズ,4
 substitutions,サブスティテュ’ーションズ,4
