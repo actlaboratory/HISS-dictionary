@@ -64,3 +64,7 @@ enquete
 iaea
 uae
 visualization
+ensite
+gigafile
+geo
+analogue
