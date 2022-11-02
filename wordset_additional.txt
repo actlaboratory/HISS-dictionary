@@ -68,3 +68,6 @@ ensite
 gigafile
 geo
 analogue
+matte
+analyze
+challenged
