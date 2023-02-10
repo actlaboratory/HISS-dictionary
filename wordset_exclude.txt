@@ -11,3 +11,5 @@ nda
 sen
 bunko
 chi
+kayo
+nippon
